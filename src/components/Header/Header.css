@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(50 50 50);
+}
+
+.link-text a {
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: .4px;
+    transition: .3s;
+
+}
+
+.link-text a:hover {
+    color: #e83f53;
+}
+
+.header-img img {
+    width: 58%;
+}
+
+.signOut-btn {
+    background-color: #fff;
+    font-weight: 600;
+    color: #000;
+    padding: 4px 5px;
+}
+
+.img-size {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}

@@ -1,0 +1,25 @@
+.valid {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(99, 96, 96);
+}
+
+.regular-btn {
+    padding: 9px 30px;
+    font-weight: 700;
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color: #e83f53;
+    border: 2px solid #e83f53;
+    color: #fff;
+    transition: .3s;
+}
+
+.regular-btn:hover {
+    background-color: white;
+    color: #e83f53;
+}

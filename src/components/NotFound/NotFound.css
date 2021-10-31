@@ -1,0 +1,26 @@
+.error-img {
+    width: 85%;
+    height: 75%;
+    margin: auto;
+    display: block;
+}
+
+.back-btn {
+    width: 25%;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+    background-color: #e83f53;
+    border: 1px solid #e83f53;
+    color: white;
+    transition: .3s;
+}
+
+.back-btn:hover {
+    color: #e83f53;
+    background-color: #fff;
+}

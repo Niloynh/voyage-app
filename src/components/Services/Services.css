@@ -1,0 +1,18 @@
+.service-container {
+    background-color: #F9F9F9;
+}
+
+.service-text {}
+
+.service-text h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.service-text p {
+    width: 60%;
+    margin: auto;
+    font-size: 19px;
+    line-height: 40px;
+    color: rgb(119, 118, 118);
+}

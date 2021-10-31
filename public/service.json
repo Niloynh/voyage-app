@@ -1,0 +1,50 @@
+[
+    {
+        "tour": "Taste of Britain",
+        "price": "1180",
+        "rate": "😃 7.7 Superb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "7 Days",
+        "img": "https://i.ibb.co/YPK7nZd/tour-image-5-415x262.jpg"
+    },
+    {
+        "tour": "The Venice Experience",
+        "price": "1360",
+        "rate": "😃 7.0 Superb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "7 Days",
+        "img": "https://i.ibb.co/n6Jhf34/tour-image-31-415x262.jpg"
+    },
+    {
+        "tour": "Taiwan Land Tour",
+        "price": "2120",
+        "rate": "😑 6.7 Good",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "14 Days",
+        "img": "https://i.ibb.co/3ckBPtC/tour-image-30-415x262.jpg"
+    },
+    {
+        "tour": "Spain’s Costa del Sol",
+        "price": "1750",
+        "rate": "😃 9.3 Superb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "15 Days",
+        "img": "https://i.ibb.co/bmrGNLk/tour-image-27-415x262.jpg"
+    },
+    {
+        "tour": "Paris Honeymoon Tour",
+        "price": "1840",
+        "rate": "😑 6.3 Good",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "7 Days",
+        "img": "https://i.ibb.co/Z1G1cRh/tour-image-19-415x262.jpg"
+    },
+    {
+        "tour": "Tours In Ethiopia",
+        "price": "1650",
+        "rate": "😃 7.0 Superb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…",
+        "valid": "12 Days",
+        "img": "https://i.ibb.co/Jr5db2m/tour-image-37-415x262.jpg"
+    }
+]

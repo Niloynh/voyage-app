@@ -1,0 +1,51 @@
+.footer-container {
+    background-color: rgb(50 50 50);
+}
+
+.footer-container img {
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.footer-img h5 {
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(196, 196, 196);
+    line-height: 30px;
+
+}
+
+.footer-text {
+    display: flex;
+    color: white;
+    margin-right: 10px;
+    font-size: 15px;
+
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.footer-news h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.footer-news p {
+    color: #ddd;
+}
+
+.footer-news span {
+    color: #ddd;
+}
+
+.suport-p {
+    margin-top: 20px;
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.footer-container hr {
+    color: #ddd;
+}
