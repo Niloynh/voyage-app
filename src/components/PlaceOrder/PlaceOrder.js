@@ -9,7 +9,7 @@ const PlaceOrder = () => {
     const onSubmit = data => {
         console.log(data);
         
-        axios.post('http://localhost:5000/order', data)
+        axios.post('https://floating-brushlands-78451.herokuapp.com/order', data)
         .then(res => {
             if(res.data.insertedId){
                 alert('Order Processed successfully')

@@ -5,7 +5,7 @@ const ManegeAllOrders = () => {
     const [orders, setOrders] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/orders')
+        fetch('https://floating-brushlands-78451.herokuapp.com/orders')
         .then(res => res.json())
         .then(data => setOrders(data))
     },[])
@@ -13,7 +13,7 @@ const ManegeAllOrders = () => {
 const handleDelete = id => {
     const procced = window.confirm('Are you sure you want to delete order')
     if(procced){
-        fetch(`http://localhost:5000/orders/${id}`, {
+        fetch(`https://floating-brushlands-78451.herokuapp.com/orders/${id}`, {
         method:'DELETE'
     })
     .then(res => res.json())

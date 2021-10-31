@@ -7,7 +7,7 @@ const AddANewService = () => {
     const onSubmit = data => {
         console.log(data);
         
-        axios.post('http://localhost:5000/orders', data)
+        axios.post('https://floating-brushlands-78451.herokuapp.com/orders', data)
         .then(res => {
             if(res.data.insertedId){
                 alert('Your New Order Added successfully')
